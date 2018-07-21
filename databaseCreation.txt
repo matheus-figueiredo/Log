@@ -1,0 +1,8 @@
+CREATE TABLE [dbo].[log]
+(
+	[Id] INT NOT NULL identity PRIMARY KEY,
+	[Message] Varchar(Max) not null,
+	[Logger] Varchar(200) null,
+	[Level] Varchar(20) not null,
+	[Exception] Varchar(Max) null
+)

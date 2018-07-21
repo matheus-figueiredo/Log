@@ -1,0 +1,15 @@
+C:\Users\ra00099907\source\repos\ClassLog\ClassLog\bin\Debug\ClassLog.dll
+C:\Users\ra00099907\source\repos\ClassLog\ClassLog\bin\Debug\ClassLog.pdb
+C:\Users\ra00099907\source\repos\ClassLog\ClassLog\obj\Debug\ClassLog.csprojResolveAssemblyReference.cache
+C:\Users\ra00099907\source\repos\ClassLog\ClassLog\obj\Debug\ClassLog.csproj.CoreCompileInputs.cache
+C:\Users\ra00099907\source\repos\ClassLog\ClassLog\obj\Debug\ClassLog.dll
+C:\Users\ra00099907\source\repos\ClassLog\ClassLog\obj\Debug\ClassLog.pdb
+C:\Users\ra00099907\source\repos\ClassLog\ClassLog\bin\Debug\ClassLog.dll.config
+C:\Users\ra00099907\Source\Workspaces\Espaço de Trabalho\Log\ClassLog\ClassLog\bin\Debug\Database\LogSystem.ldf
+C:\Users\ra00099907\Source\Workspaces\Espaço de Trabalho\Log\ClassLog\ClassLog\bin\Debug\Database\LogSystem.mdf
+C:\Users\ra00099907\Source\Workspaces\Espaço de Trabalho\Log\ClassLog\ClassLog\bin\Debug\ClassLog.dll
+C:\Users\ra00099907\Source\Workspaces\Espaço de Trabalho\Log\ClassLog\ClassLog\bin\Debug\ClassLog.pdb
+C:\Users\ra00099907\Source\Workspaces\Espaço de Trabalho\Log\ClassLog\ClassLog\obj\Debug\ClassLog.csprojResolveAssemblyReference.cache
+C:\Users\ra00099907\Source\Workspaces\Espaço de Trabalho\Log\ClassLog\ClassLog\obj\Debug\ClassLog.csproj.CoreCompileInputs.cache
+C:\Users\ra00099907\Source\Workspaces\Espaço de Trabalho\Log\ClassLog\ClassLog\obj\Debug\ClassLog.dll
+C:\Users\ra00099907\Source\Workspaces\Espaço de Trabalho\Log\ClassLog\ClassLog\obj\Debug\ClassLog.pdb
