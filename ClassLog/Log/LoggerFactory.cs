@@ -31,6 +31,10 @@ namespace ClassLog.Log
                     HttpLogger httpLogger = new HttpLogger(Configuration.Configuration.HttpUrl);
                     httpLogger.SetLevel(Level);
                     return httpLogger;
+				case Target.DATABASE:
+                    DatabaseLogger databaseLogger = new DatabaseLogger();
+                    databaseLogger.SetLevel(Level);
+                    return databaseLogger;
                 default:
                     ConsoleLogger consoleLogger = new ConsoleLogger();
                     consoleLogger.SetLevel(Level);
